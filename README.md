@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Kute</h1>
 <h3 align="center">A passionate Data Analyst intern from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">< username=vaishnavi-kute" alt="vaishnavi-kute" /></a> </p>
+# <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">< username=vaishnavi-kute" alt="vaishnavi-kute" /></a> </p>
 
 - 🌱 I’m currently learning **Data Analytics skills, PowerBI, SQL**
 
